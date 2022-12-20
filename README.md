@@ -6,6 +6,7 @@ Software Engineers have never been known for their creativity in naming products
 Moving on, this is an App developed with JavaScript that accepts two dates and outputs the difference between them in days.
 
 ***WHY WAS IT DEVELOPED***
+
 I don't know about you but I usually find myself, trying to calculate how many days have passed between dates, mostly when looking at instagram posts.
 
 ***FUTURE FEATURES***
