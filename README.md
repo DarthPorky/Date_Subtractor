@@ -12,4 +12,4 @@ I don't know about you but I usually find myself, trying to calculate how many d
 ***FUTURE FEATURES***
   - Allow one to choose weather output to be in months, years or a combination.
   - An API endpoint because why not.
-  - An android version (Can't let them React Native skills go to waste)
+  - An android version (Can't let them React Native skills go to waste).
